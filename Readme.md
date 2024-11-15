@@ -5,6 +5,13 @@
 ### Project Overview
 EcomDashPro is an innovative e-commerce platform designed to provide a seamless shopping experience. It features dedicated admin and user dashboards, each offering unique functionalities to enhance the management and shopping processes.
 
+## Showcase
+
+| ![Image 1](https://github.com/xloyb/EcomDashPro-PHP-E-commerce-Dashboard-Project/blob/main/Showcase/D_Menu/Guest.PNG?raw=true)| ![Image 2](https://github.com/xloyb/EcomDashPro-PHP-E-commerce-Dashboard-Project/blob/main/Showcase/D_Menu/User.PNG?raw=true)|
+|-------------------------|-------------------------|
+| ![Image 3](https://github.com/xloyb/EcomDashPro-PHP-E-commerce-Dashboard-Project/blob/main/Showcase/index_ShowProducts/D_ProductsList.PNG?raw=true)| ![Image 4](https://github.com/xloyb/EcomDashPro-PHP-E-commerce-Dashboard-Project/blob/main/Showcase/index_ShowProducts/tabbed%20Menu.PNG?raw=true) |
+| ![Image 5](https://github.com/xloyb/EcomDashPro-PHP-E-commerce-Dashboard-Project/blob/main/Showcase/Admin%20Control%20Panel/List%20of%20Categories.PNG?raw=true)| ![Image 6](https://github.com/xloyb/EcomDashPro-PHP-E-commerce-Dashboard-Project/blob/main/Showcase/Admin%20Control%20Panel/Products%20List.PNG?raw=true) |
+
 ### Admin Dashboard
 The admin dashboard caters to different administrative roles defined by the `adminlevel` column in the database:
 - **User (adminlevel 0):** Basic Client.
